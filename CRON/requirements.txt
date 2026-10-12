@@ -1,0 +1,4 @@
+matplotlib      3.11.2
+numpy           2.5.3
+pip             26.2.1
+PyWavelets      1.10.0
